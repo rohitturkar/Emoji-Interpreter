@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  display:block;
+  margin:auto;
+  padding: 1rem;
+  max-width:90%;
+  border-radius: 0.5rem;
+  border:2px solid rgb(9, 7, 7);
+}
+
+.main{
+ display:block;
+ max-width:500px;
+ margin:auto;
+ margin-top:4rem;
+ padding:1rem;
+ text-align:center;
+ background-color:rgb(205, 196, 187);
+ border:2px solid rgb(9, 7, 7);
+ border-radius:0.5rem;
+
+}
