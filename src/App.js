@@ -46,7 +46,7 @@ export default function App() {
 
       
       <h1>Emoji Interpreter</h1>
-      <input onChange={emojiInputHandler}></input>
+      <input placeholder="Enter Emoji" onChange={emojiInputHandler}></input>
       <h2> meaning: {meaning} </h2>
       <h3> emojis we know </h3>
       {emojisWeKnow.map(function (emoji) {
